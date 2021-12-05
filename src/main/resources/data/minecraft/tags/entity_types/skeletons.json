@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "icedchaiskeletons:skeleton_knight",
+    "icedchaiskeletons:stray_knight",
+    "icedchaiskeletons:wither_archer"
+  ]
+}
